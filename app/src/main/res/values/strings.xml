@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Flickr Test Case</string>
+    <string name="detail_activity">Detail Activity</string>
+    <string name="flickr_activity">Flickr Activity</string>
+    <string name="splash_activity">Splash Screen</string>
+
+</resources>
